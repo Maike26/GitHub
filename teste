@@ -1,0 +1,8 @@
+Prevenção de erros
+O maior problema em sistemas são erros, e além de tratalos com as melhores mensagens de erro, devemos pensar em um sistema que auxilie o usuário a fim de evitar erros, e essa heurística se trata disso, outra coisa importante seria eliminar condições que fazem ações muito críticas sem antes ter a confirmação detalhada pelo usuário, isso informa ele que ele pode estar fazendo algo que pode danificar ou causar problemas no sistema. 
+Um bom exemplo de preveneção de erros, que é mais um auxilio para o usuário é a pesquisa no google, que enquanto você digita ele te da diversas sugestões que tenham haver com o que você escreveu:
+Outro exemplo desse auxilio é aqui mesmo no Word onde estou digitando, na hora que começamos a digitar a fonta que gostaria, o programa da diversas sugestões de fontes:
+O Bootstrap também auxilia o usuário dando sugestões enquanto tem a digitação:
+Ajude os usuários a reconhecer, diagnosticar e recuperar erros
+Quem nunca estava preenchendo um formulário e clicou em cadastrar ou enviar e deu erro, mas você não conseguia identificar onde estava esse erro, qual campo faltou preenchimento, o que estava incorreto etc. Então, essa heuristica assegura que sera apresentada mensagens de erros (pequenas e em linguagem simples), indicando diretamente o problema e sugerindo como o usuário poderia chegar na conclusão correta
+Um ótimo exemplo é no formulário da Spotify:
